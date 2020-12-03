@@ -1,2 +1,2 @@
-sample file입니다. 수정test
+sample file입니다. 수정
 #########################
